@@ -11,7 +11,7 @@ Compartilho um pouco do meu progresso lá no meu Linkedin 🔗, [clica aqui para
 <p align="left">
     <a>
         <img 
-            title="Localicação" 
+            title="Onde estou" 
             src=https://custom-icon-badges.demolab.com/badge/Recife-Brasil-purple?style=for-the-badge&logo=location&logoColor=white
         />
     </a>
