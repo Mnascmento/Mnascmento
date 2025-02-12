@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Maria Nascimento
 
-**`Desenvolvedora FullStack / Analista de Dados`**
+**`Software Developer / Analista de Dados`**
 
 Olá, eu me chamo chamo Maria Nascimento. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac PE através do programa Embarque Digital em parceria com o Porto Digital e participando pelo terceiro período da residência tecnológica do Porto Digital. 
 
