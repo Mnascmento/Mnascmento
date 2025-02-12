@@ -134,6 +134,11 @@ align="left"
     src="https://github-readme-stats.vercel.app/api?username=Mnascmento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+
+
+
+
+
 <img 
       align="left" 
       alt="GitHub Stats" 
