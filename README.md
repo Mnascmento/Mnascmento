@@ -17,7 +17,7 @@ Compartilho um pouco do meu progresso lá no meu Linkedin 🔗, [clica aqui para
     </a>
     <a href="melonascmento@gmail.com">
         <img 
-            alt="Email" 
+            alt="mailto" 
             title="Para mandar um email" 
             src="https://custom-icon-badges.demolab.com/badge/Fale comigo-GMAIL-darkred.svg?logo=mail&logoColor=white"
         />
