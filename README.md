@@ -4,7 +4,7 @@
 
 Olá, eu me chamo chamo Maria Nascimento. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac PE através do programa Embarque Digital em parceria com o Porto Digital e participando pelo terceiro período da residência tecnológica do Porto Digital. 
 
-Migrei para a área de técnologia em 2023 com alguns cursos livres de lógica de programação e desenvolvimento em Java, em 2024 iniciei a graduação e me apaixonei pela área de dados!
+Migrei para a área de tecnologia em 2023 com alguns cursos livres de lógica de programação e desenvolvimento em Java, em 2024 iniciei a graduação e me apaixonei pela área de dados!
 
 Compartilho um pouco do meu progresso lá no meu Linkedin 🔗, [clica aqui para dar uma olhada](https://www.linkedin.com/in/mariamelonascimento/).
 
