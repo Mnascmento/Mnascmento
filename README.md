@@ -15,9 +15,9 @@ Compartilho um pouco do meu progresso lá no meu Linkedin 🔗, [clica aqui para
             src=https://custom-icon-badges.demolab.com/badge/Recife-Brasil-purple?style=for-the-badge&logo=location&logoColor=white
         />
     </a>
-    <a href="melonascmento@gmail.com">
+    <a href="mailto:melonascmento@gmail.com">
         <img 
-            alt="mailto" 
+            alt="Email" 
             title="Para mandar um email" 
             src="https://custom-icon-badges.demolab.com/badge/Fale comigo-GMAIL-darkred.svg?logo=mail&logoColor=white"
         />
